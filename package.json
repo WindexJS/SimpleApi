@@ -1,0 +1,33 @@
+{
+  "name": "simple-api",
+  "version": "0.1.0",
+  "description": "A simple api for my github.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WindexJS/SimpleApi.git"
+  },
+  "keywords": [
+    "api",
+    "beginners",
+    "learners",
+    "github",
+    "windexjs",
+    "nodejs",
+    "js"
+  ],
+  "author": "windex.js",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WindexJS/SimpleApi/issues"
+  },
+  "homepage": "https://github.com/WindexJS/SimpleApi#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security"
+  }
+}
